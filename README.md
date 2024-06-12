@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Álvaro Díez</h1>
+<h3 align="center">A passionate developer from Spain</h3>
 
 <!--
 **alvarodr97/alvarodr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
