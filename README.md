@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain</h3>
 
 ## ⚡ Technologies
-- Front-end development using **HTML, Javascript, CSS, Tailwind, React, Next**.
+- Front-end development using **HTML, Javascript, Typescript, CSS, Tailwind, React, Next, Redux, Zustand**.
 - Backend development using **NodeJS**.
 - Creating scalable cloud architecture using **AWS Cloud**.
   
